@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{92562A3D-2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_OptionPattern", "src\OptionsPattern\01_OptionPattern.csproj", "{954B316B-4119-4A4F-BEE7-D1A0103A1972}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_HttpClient", "02_HttpClient\02_HttpClient.csproj", "{AEE54F82-E367-4AC1-A263-4BD8EA220D9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{954B316B-4119-4A4F-BEE7-D1A0103A1972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954B316B-4119-4A4F-BEE7-D1A0103A1972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954B316B-4119-4A4F-BEE7-D1A0103A1972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE54F82-E367-4AC1-A263-4BD8EA220D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE54F82-E367-4AC1-A263-4BD8EA220D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE54F82-E367-4AC1-A263-4BD8EA220D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE54F82-E367-4AC1-A263-4BD8EA220D9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{954B316B-4119-4A4F-BEE7-D1A0103A1972} = {394A705F-27FE-4A1E-8844-64DC9733BC70}
+		{AEE54F82-E367-4AC1-A263-4BD8EA220D9A} = {394A705F-27FE-4A1E-8844-64DC9733BC70}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05601024-1D11-4109-BDC6-3C7C5AA26C37}

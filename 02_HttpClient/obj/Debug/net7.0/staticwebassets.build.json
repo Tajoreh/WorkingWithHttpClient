@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "SaeR05floDmDgStE3M/jx3klkb4bdk/NX3eLxUCdiC4=",
-  "Source": "01_OptionPattern",
-  "BasePath": "_content/01_OptionPattern",
+  "Hash": "+VfUAg31veTxWGp2MZivvSNYL/LmiJgyULkGSvmMyIc=",
+  "Source": "02_HttpClient",
+  "BasePath": "_content/02_HttpClient",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
