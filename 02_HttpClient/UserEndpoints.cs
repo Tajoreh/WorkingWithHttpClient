@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Options;
+﻿using _02_HttpClient.Utilities;
+using Microsoft.Extensions.Options;
 
 namespace _02_HttpClient;
 
@@ -46,6 +47,19 @@ public static class UserEndpoints
         {
 
             var httpClient = new HttpClient();
+
+            httpClient.BaseAddress = new Uri(settings.Value.BaseUrl);
+
+            var content = await httpClient.GetAsync($"/api/v1/employee/{userId}");
+
+            return Results.Ok(content);
+        });
+
+        app.MapGet("users/v5/{userId}", async (string userId,
+            IOptions<ApplicationSettings> settings) =>
+        {
+
+            var httpClient = new HttpClient(new CustomHandler());
 
             httpClient.BaseAddress = new Uri(settings.Value.BaseUrl);
 

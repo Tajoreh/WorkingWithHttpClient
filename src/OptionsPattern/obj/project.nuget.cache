@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxVOeVVkt7WjLWOZ+nIB1vNTASE21eAUdtit6poU8kHD6Y79U0dzC8COi6RxlBPYd5COyechcX86n+bj6iMKpg==",
+  "dgSpecHash": "3HX91nital0K3Oyef+f7jsGws/649gbOO1sfhOm50NTWv4o8CpqQxwgSTb/CPnTo1H11jqT78I/QEIstl3aawg==",
   "success": true,
-  "projectFilePath": "D:\\Resources\\Practices\\HttpClientSample\\src\\OptionsPattern\\01_OptionPattern.csproj",
+  "projectFilePath": "C:\\Users\\z.daneshi\\Downloads\\Compressed\\AnyDesk.8.0.7\\AnyDesk.8.0.7\\WorkingWithHttpClient\\src\\OptionsPattern\\01_OptionPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\z.daneshi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\z.daneshi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

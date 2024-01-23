@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JxfmZB0c72aVEL7P75OPUljBg6Fn5xbJM3sh+MHJSxtEzsqfBqC+qiELK/JM1FrLKK8wrYCU13XL1CNp1AWV7g==",
+  "dgSpecHash": "snzH48R77SAOxdMnFV8fdkJC5R5NeMNFq3aRiqTlNkZD4UJuoqdl763CaeHlVsVtf6/PqIL6uXETTRZwNSQOVQ==",
   "success": true,
-  "projectFilePath": "D:\\Resources\\Practices\\HttpClientSample\\02_HttpClient\\02_HttpClient.csproj",
+  "projectFilePath": "C:\\Users\\z.daneshi\\Downloads\\Compressed\\AnyDesk.8.0.7\\AnyDesk.8.0.7\\WorkingWithHttpClient\\02_HttpClient\\02_HttpClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

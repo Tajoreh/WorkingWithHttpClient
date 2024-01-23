@@ -475,16 +475,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Resources\\Practices\\HttpClientSample\\src\\OptionsPattern\\01_OptionPattern.csproj",
+      "projectUniqueName": "C:\\Users\\z.daneshi\\Downloads\\Compressed\\AnyDesk.8.0.7\\AnyDesk.8.0.7\\WorkingWithHttpClient\\src\\OptionsPattern\\01_OptionPattern.csproj",
       "projectName": "01_OptionPattern",
-      "projectPath": "D:\\Resources\\Practices\\HttpClientSample\\src\\OptionsPattern\\01_OptionPattern.csproj",
+      "projectPath": "C:\\Users\\z.daneshi\\Downloads\\Compressed\\AnyDesk.8.0.7\\AnyDesk.8.0.7\\WorkingWithHttpClient\\src\\OptionsPattern\\01_OptionPattern.csproj",
       "packagesPath": "C:\\Users\\z.daneshi\\.nuget\\packages\\",
-      "outputPath": "D:\\Resources\\Practices\\HttpClientSample\\src\\OptionsPattern\\obj\\",
+      "outputPath": "C:\\Users\\z.daneshi\\Downloads\\Compressed\\AnyDesk.8.0.7\\AnyDesk.8.0.7\\WorkingWithHttpClient\\src\\OptionsPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+        "C:\\Users\\z.daneshi\\Downloads\\NuGet.Config",
         "C:\\Users\\z.daneshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -493,11 +494,9 @@
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.307\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-        "D:\\Resources\\Practices\\Framework\\artifacts": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://azure.charisma.tech/Brokerage/_packaging/Charisma_Trader_Framework_Backend%40Local/nuget/v3/index.json": {}
+        "https://artifacts.charisma.tech/repository/Cip-Nuget/": {}
       },
       "frameworks": {
         "net7.0": {
@@ -543,7 +542,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
