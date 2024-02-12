@@ -14,17 +14,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\z.daneshi\\Downloads\\Compressed\\AnyDesk.8.0.7\\AnyDesk.8.0.7\\WorkingWithHttpClient\\02_HttpClient\\02_HttpClient.csproj",
-      "projectName": "02_HttpClient",
-      "projectPath": "C:\\Users\\z.daneshi\\Downloads\\Compressed\\AnyDesk.8.0.7\\AnyDesk.8.0.7\\WorkingWithHttpClient\\02_HttpClient\\02_HttpClient.csproj",
+      "projectUniqueName": "C:\\Users\\z.daneshi\\Desktop\\WorkingWithHttpClient\\02_HttpClient\\01_HttpClient.csproj",
+      "projectName": "01_HttpClient",
+      "projectPath": "C:\\Users\\z.daneshi\\Desktop\\WorkingWithHttpClient\\02_HttpClient\\01_HttpClient.csproj",
       "packagesPath": "C:\\Users\\z.daneshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\z.daneshi\\Downloads\\Compressed\\AnyDesk.8.0.7\\AnyDesk.8.0.7\\WorkingWithHttpClient\\02_HttpClient\\obj\\",
+      "outputPath": "C:\\Users\\z.daneshi\\Desktop\\WorkingWithHttpClient\\02_HttpClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\z.daneshi\\Downloads\\NuGet.Config",
         "C:\\Users\\z.daneshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -34,8 +33,9 @@
       ],
       "sources": {
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "D:\\Messaging\\Local SDK": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://artifacts.charisma.tech/repository/Cip-Nuget/": {}
+        "https://artifacts.charisma.tech/repository/Charisma-Nuget/index.json": {}
       },
       "frameworks": {
         "net7.0": {
