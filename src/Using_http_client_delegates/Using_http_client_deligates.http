@@ -1,0 +1,6 @@
+@Using_http_client_deligates_HostAddress = http://localhost:5292
+
+GET {{Using_http_client_deligates_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
